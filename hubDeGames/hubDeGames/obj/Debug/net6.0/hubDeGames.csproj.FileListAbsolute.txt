@@ -1,0 +1,15 @@
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\bin\Debug\net6.0\hubDeGames.exe
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\bin\Debug\net6.0\hubDeGames.deps.json
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\bin\Debug\net6.0\hubDeGames.runtimeconfig.json
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\bin\Debug\net6.0\hubDeGames.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\bin\Debug\net6.0\hubDeGames.pdb
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.AssemblyInfoInputs.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.AssemblyInfo.cs
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\refint\hubDeGames.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.pdb
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\hubDeGames.genruntimeconfig.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\hubDeGames\hubDeGames\obj\Debug\net6.0\ref\hubDeGames.dll
