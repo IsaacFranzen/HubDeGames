@@ -1,0 +1,15 @@
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\bin\Debug\net6.0\jogoDeXadrez.exe
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\bin\Debug\net6.0\jogoDeXadrez.deps.json
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\bin\Debug\net6.0\jogoDeXadrez.runtimeconfig.json
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\bin\Debug\net6.0\jogoDeXadrez.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\bin\Debug\net6.0\jogoDeXadrez.pdb
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.AssemblyInfoInputs.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.AssemblyInfo.cs
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\refint\jogoDeXadrez.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.pdb
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\jogoDeXadrez.genruntimeconfig.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\obj\Debug\net6.0\ref\jogoDeXadrez.dll
