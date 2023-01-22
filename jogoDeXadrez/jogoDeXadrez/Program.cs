@@ -1,4 +1,5 @@
-﻿using jogoDeXadrez.Entities.Xadrez;
+﻿using jogoDeXadrez.Entities;
+using jogoDeXadrez.Entities.Xadrez;
 
 namespace jogoDeXadrez
 {
@@ -6,8 +7,7 @@ namespace jogoDeXadrez
     {
         public static void Main(string[] args)
         {
-            Tabuleiro tabuleiro = new Tabuleiro();
-            
+           Menu iniciarMenu = new Menu();
         }
     }
 }
