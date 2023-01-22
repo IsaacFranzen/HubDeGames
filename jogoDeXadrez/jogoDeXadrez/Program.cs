@@ -1,4 +1,4 @@
-﻿using jogoDeXadrez.Entities;
+﻿using jogoDeXadrez.Entities.Xadrez;
 
 namespace jogoDeXadrez
 {

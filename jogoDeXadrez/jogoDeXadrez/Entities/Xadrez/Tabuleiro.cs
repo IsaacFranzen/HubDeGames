@@ -1,11 +1,4 @@
-﻿using jogoDeXadrez.Entities;
-using jogoDeXadrez.Entities.Enums;
-using jogoDeXadrez.Xadrez;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using jogoDeXadrez.Entities.Enums;
 
 namespace jogoDeXadrez.Entities.Xadrez
 {
@@ -93,10 +86,41 @@ namespace jogoDeXadrez.Entities.Xadrez
             {
                 tabuleiro[1, i] = new Peao(1, i, Cor.White);
             }
+
+            //Cavalos brancos
+             tabuleiro[0, 1] = new Cavalo(0, 1, Cor.White);
+             tabuleiro[0, 6] = new Cavalo(0, 6, Cor.White);
+
+            // Cavalos pretos
+            tabuleiro[7,1] = new Cavalo(7, 1, Cor.Black);
+            tabuleiro[7,6] = new Cavalo(7, 6, Cor.Black);
+
+            //Bispos brancos
+            tabuleiro[0,2] = new Bispo(0, 2, Cor.White);
+            tabuleiro[0,5] = new Bispo(0,5, Cor.White);
+
+            //Bispos pretos
+            tabuleiro[7, 2] = new Bispo(7, 2, Cor.Black);
+            tabuleiro[7, 5] = new Bispo(7, 5, Cor.Black);
+
+            // Rainha branca
+            tabuleiro[0,3] = new Rainha(0, 3, Cor.White);
+
+            //Rainha preta
+            tabuleiro[7, 3] = new Rainha(7, 3, Cor.Black);
+
+            //Rei branco
+            tabuleiro[0,4] = new Rei(0, 4, Cor.White);
+
+            //Rei preto
+            tabuleiro[7,4] = new Rei(7, 4, Cor.Black);
+
         }
 
         public void moverPeca()
         {
+         
+            
             Console.WriteLine("Digite a linha inicial:");
             linhaInicial = int.Parse(Console.ReadLine());
 
@@ -111,7 +135,8 @@ namespace jogoDeXadrez.Entities.Xadrez
 
             tabuleiro[linhaFinal, colunaFinal] = tabuleiro[linhaInicial, colunaInicial];
             tabuleiro[linhaInicial, colunaInicial] = new Vazio(linhaInicial, colunaInicial);
-
+           
+           
         }
     }
 }
