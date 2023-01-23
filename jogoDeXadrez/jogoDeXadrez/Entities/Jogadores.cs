@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
 
 namespace jogoDeXadrez.Entities
 {
@@ -12,8 +14,6 @@ namespace jogoDeXadrez.Entities
             public string Nome { get; set; }
             public int Pontuacao { get; set; }
         
-       
-
         static List<Jogador> jogadores = new List<Jogador>();
 
         public void registrarJogador()
@@ -42,6 +42,26 @@ namespace jogoDeXadrez.Entities
             foreach (Jogador jogador in jogadores)
             {
                 Console.WriteLine("Nome: " + jogador.Nome + ", Pontuação: " + jogador.Pontuacao);
+            }
+        }
+
+        public void salvarJogadores()
+        {
+            string roothPath = @"C:\Users\isaac\OneDrive\Área de Trabalho\HubDeGames\jogoDeXadrez\jogoDeXadrez\";
+            string filePath = roothPath + "jogadores.JSON";
+
+            if (!File.Exists(filePath))
+            {
+                File.Create(filePath).Close();
+            }
+
+            using (StreamWriter sw = File.AppendText(filePath)) 
+            {
+                
+                    string json = JsonSerializer.Serialize(jogadores);
+                    sw.WriteLine(json);
+                
+                
             }
         }
     }

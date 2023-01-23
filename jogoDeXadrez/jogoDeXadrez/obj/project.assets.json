@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac\\OneDrive\\Área de Trabalho\\projeto xadrez\\HubDeGames\\jogoDeXadrez\\jogoDeXadrez\\jogoDeXadrez.csproj",
+      "projectUniqueName": "C:\\Users\\isaac\\OneDrive\\Área de Trabalho\\HubDeGames\\jogoDeXadrez\\jogoDeXadrez\\jogoDeXadrez.csproj",
       "projectName": "jogoDeXadrez",
-      "projectPath": "C:\\Users\\isaac\\OneDrive\\Área de Trabalho\\projeto xadrez\\HubDeGames\\jogoDeXadrez\\jogoDeXadrez\\jogoDeXadrez.csproj",
+      "projectPath": "C:\\Users\\isaac\\OneDrive\\Área de Trabalho\\HubDeGames\\jogoDeXadrez\\jogoDeXadrez\\jogoDeXadrez.csproj",
       "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaac\\OneDrive\\Área de Trabalho\\projeto xadrez\\HubDeGames\\jogoDeXadrez\\jogoDeXadrez\\obj\\",
+      "outputPath": "C:\\Users\\isaac\\OneDrive\\Área de Trabalho\\HubDeGames\\jogoDeXadrez\\jogoDeXadrez\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

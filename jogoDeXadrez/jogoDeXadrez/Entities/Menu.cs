@@ -22,7 +22,8 @@ namespace jogoDeXadrez.Entities
                 Console.WriteLine("1. Registrar jogador");
                 Console.WriteLine("2. Jogar xadrez");
                 Console.WriteLine("3. Mostrar jogadores");
-                Console.WriteLine("4. Sair");
+                Console.WriteLine("4. Salvar jogadores");
+                Console.WriteLine("5. Sair");
 
                 Console.WriteLine("Digite a opção escolhida");
 
@@ -40,7 +41,10 @@ namespace jogoDeXadrez.Entities
                     case 3:
                         MostrarJogador mostrar = new MostrarJogador();
                         break;
-                    case 4:
+                        case 4:
+                        SalvarJogadores salvar = new SalvarJogadores();
+                        break;
+                    case 5:
                         Console.WriteLine("Encerrando menu.");
                         Environment.Exit(0);
                         break;
