@@ -21,7 +21,8 @@ namespace jogoDeXadrez.Entities
             {
                 Console.WriteLine("1. Registrar jogador");
                 Console.WriteLine("2. Jogar xadrez");
-                Console.WriteLine("3. Sair");
+                Console.WriteLine("3. Mostrar jogadores");
+                Console.WriteLine("4. Sair");
 
                 Console.WriteLine("Digite a opção escolhida");
 
@@ -30,15 +31,16 @@ namespace jogoDeXadrez.Entities
                 switch(Option)
                 {
                     case 1:
-                        Console.WriteLine("Digite o seu nome:");
-                        string nome = Console.ReadLine();
-                        RegistroDeUsuario registrar = new RegistroDeUsuario( nome, 0);
-                        Console.WriteLine("Usuário registrado com sucesso!");
+                        Jogador jogador = new Jogador();
+                        jogador.registrarJogador();
                         break;
                     case 2:
                         Tabuleiro tabuleiro = new Tabuleiro();
                         break;
                     case 3:
+                        MostrarJogador mostrar = new MostrarJogador();
+                        break;
+                    case 4:
                         Console.WriteLine("Encerrando menu.");
                         Environment.Exit(0);
                         break;
